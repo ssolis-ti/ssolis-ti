@@ -6,19 +6,21 @@ Personal technical portfolio — AI systems, data, automation and applied intell
 
 Hi, I'm Sebastián 👋  
 
-I build practical AI systems, automation tools, and data-driven prototypes.
-My background is in IT operations, infrastructure, and applied problem-solving,
-with a strong focus on turning ideas into working systems and MVPs.
+I build practical AI systems, automation tools, and data-driven prototypes.  
+My background is in IT operations, infrastructure, and applied problem-solving,  
+with a strong focus on turning ideas into working systems and real-world MVPs.
 
 ---
 
 ## 🚀 Featured Projects 
 
 ### 🧠 MPBOT — Universal Tender Intelligence Engine  
-AI-powered multi-agent system for tender analysis, ranking and prioritization across industries.  
+**Type:** Original Project · Hackathon MVP  
+
+AI-powered multi-agent system for tender analysis, ranking and prioritization across industries.
 
 - Autonomous agents with human-in-the-loop validation (ASI:One)  
-- LLM-based classification, scoring and reporting  
+- LLM-based classification, scoring and report generation  
 - Modular architecture adaptable to any sector  
 
 🔗 https://github.com/ssolis-ti/mpbot  
@@ -27,7 +29,9 @@ AI-powered multi-agent system for tender analysis, ranking and prioritization ac
 ---
 
 ### 📣 TG-ADMC — Telegram Ads Marketplace (TON)  
-Decentralized ad marketplace for Telegram channels powered by the TON blockchain.  
+**Type:** Original Project · Web3 Marketplace MVP  
+
+Decentralized ad marketplace for Telegram channels powered by the TON blockchain.
 
 - Escrow-based payments on TON testnet  
 - Automated ad publishing via Telegram bot  
@@ -39,7 +43,9 @@ Decentralized ad marketplace for Telegram channels powered by the TON blockchain
 ---
 
 ### 📈 Crypto-Signal  
-Modern crypto market analysis and alerting system.  
+**Type:** Forked Project · Major Refactor & Modernization  
+
+Modern crypto market analysis and alerting system.
 
 - +15 technical indicators (RSI, MACD, Ichimoku, ADX…)  
 - Multi-exchange support via CCXT  
@@ -51,10 +57,12 @@ Modern crypto market analysis and alerting system.
 ---
 
 ### 📄 CV-Manaiger  
-Intelligent CV parsing and optimization system.  
+**Type:** Original Project · AI / Data Engineering  
+
+Intelligent CV parsing and optimization system.
 
 - Transforms unstructured CV text into structured JSON  
-- One-shot LLM extraction + ETL pipeline  
+- One-shot LLM extraction with ETL pipeline  
 - Designed for analytics, ranking and AI processing  
 
 🔗 https://github.com/ssolis-ti/CV-Manaiger  
@@ -63,7 +71,9 @@ Intelligent CV parsing and optimization system.
 ---
 
 ### 🤖 Poly-MktAI  
-LLM-agnostic autonomous trading agents for Polymarket.  
+**Type:** Forked Project · Re-architected System  
+
+LLM-agnostic autonomous trading agents for Polymarket.
 
 - Multi-brain architecture (OpenAI, Anthropic, Local models)  
 - Modular strategies and CLI tooling  
@@ -75,11 +85,14 @@ LLM-agnostic autonomous trading agents for Polymarket.
 ---
 
 ### 📰 RSS AI Rewriter  
-AI-powered WordPress plugin for automated content generation.  
+**Type:** Original Project · WordPress Plugin  
+
+AI-powered WordPress plugin for automated content generation.
 
 - RSS ingestion + AI rewriting  
-- Image generation  
+- Automatic image generation  
 - SEO-ready publishing workflow  
 
 🔗 https://github.com/ssolis-ti/rss-rewriter-ai  
 **Status:** Functional prototype / Beta in progress  
+
