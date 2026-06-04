@@ -49,14 +49,5 @@
 
 ---
 
-### 📊 Estadísticas / Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssolis-ti&show_icons=true&theme=nord&count_private=true" alt="Sebastián's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssolis-ti&layout=compact&theme=nord&hide=html,css" alt="Sebastián's Top Languages" height="180px" />
-</p>
-
----
-
 ### 📬 Contacto / Contact
 * 📧 **Email:** [contacto@saiberaysen.cl](mailto:contacto@saiberaysen.cl)
