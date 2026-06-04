@@ -36,9 +36,16 @@
 ---
 
 #### 🔌 [Simple DHCP Server (Fork)](https://github.com/ssolis-ti/simple_dhcp_server)
-* **🇪🇸 Qué hace:** Fork optimizado de un servidor DHCP en Python puro. Añade un servidor web Flask integrado (mediante hilos/threading) para monitorear clientes en tiempo real y empaqueta todas las dependencias localmente para ser 100% portable y autónomo.
-* **🇬🇧 What it does:** Enhanced fork of a pure Python DHCP server. It adds an integrated Flask web server (via threading) for real-time client monitoring and vendors all dependencies locally to remain 100% portable and self-contained.
+* **🇪🇸 Qué hace:** Fork optimizado de un servidor DHCP en Python puro. Añade un servidor web Flask concurrente para monitoreo en tiempo real y pruebas de red offline. Incorpora configuración centralizada y empaqueta todas sus dependencias localmente para ser 100% portable y autónomo sin internet.
+* **🇬🇧 What it does:** Enhanced fork of a pure Python DHCP server. It adds a concurrent Flask web server for real-time monitoring and offline network testing. Features centralized configuration and vendors all dependencies locally to remain 100% portable and self-contained without internet access.
 * **Tech:** `Python` · `Flask` · `Scapy` · `Networking`
+
+---
+
+#### ✍️ [WordPress AI Content System MCP](https://github.com/ssolis-ti/wordpress_content_ai_mcp)
+* **🇪🇸 Qué hace:** Servidor MCP en Python que automatiza el ciclo de vida del contenido en WordPress. Integra investigación de temas, redacción multimodelo (Gemini, OpenAI, Claude, Ollama), auditorías SEO en tiempo real y enlazado interno automático.
+* **🇬🇧 What it does:** Python-based MCP server that automates the WordPress content lifecycle. It features topic research, multi-model AI writing (Gemini, OpenAI, Claude, Ollama), real-time SEO audits, and automated internal linking.
+* **Tech:** `Python` · `MCP (Model Context Protocol)` · `WordPress` · `LiteLLM` · `SEO`
 
 ---
 
