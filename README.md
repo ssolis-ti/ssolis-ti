@@ -1,4 +1,4 @@
-# Sebastián 👋
+# SS 👋
 `Applied AI | Data Systems | Automation | Infrastructure`
 
 ---
