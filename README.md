@@ -11,7 +11,7 @@
 
 ### 🧠 Estilo de Trabajo & Simbiosis IA / Work Style & AI Symbiosis
 * **🇪🇸** Estructuro mis desarrollos siguiendo la filosofía de [The Codex AI](https://github.com/ssolis-ti/codex-ai-zeta) (Índice Maestro): un marco personalizado para optimizar la colaboración humano-IA, ingeniería de prompts avanzada y patrones de refactorización eficientes.
-* **🇬🇧** I structure my workflows around the principles of [The Codex AI](https://github.com/ssolis-ti/codex-ai-zeta) (Master Index): a customized framework to optimize Human-AI symbiosis, advanced prompt engineering, and efficient code refactoring.
+* **🇬🇧** I structure my workflows around the principles of [The Codex AI](https://github.com/ssolis-ti/codex-ai-zeta/tree/main/The_Codex_AI_EN) (Master Index): a customized framework to optimize Human-AI symbiosis, advanced prompt engineering, and efficient code refactoring.
 
 ---
 
