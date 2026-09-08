@@ -51,13 +51,6 @@
 
 ---
 
-#### 📰 [RSS AI Rewriter](https://github.com/ssolis-ti/rss-rewriter-ai)
-* **🇪🇸 Qué hace:** Plugin de WordPress que lee fuentes RSS, reescribe los artículos usando IA, genera imágenes automáticas y optimiza el contenido para SEO antes de publicar.
-* **🇬🇧 What it does:** WordPress plugin that reads RSS feeds, rewrites articles using AI, generates automatic images, and optimizes content for SEO before publishing.
-* **Tech:** `PHP` · `WordPress` · `OpenAI API` · `DALL-E`
-
----
-
 ### 📬 Contacto / Contact
 * 📧 **Email:** [contacto@saiberaysen.cl](mailto:contacto@saiberaysen.cl)
 
